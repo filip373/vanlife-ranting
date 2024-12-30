@@ -2,6 +2,6 @@
 layout: default
 title: About
 ---
-# About page
+# About
 
-I'll tell you a bit about the junk equipment sold in the "caravaing" industry. I'll also rant a bit about vanlife in general.
+I'll rant about junk sold in the "caravaing" industry and about other aspects of "vanlife".
