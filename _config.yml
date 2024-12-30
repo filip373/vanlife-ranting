@@ -21,7 +21,7 @@
 title: Vanlife Ranting
 email: filip373@mail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'll rant about some junk sold in the "caravaing" industry and about other aspects of "vanlife".
+  I'll rant about junk sold in the 'caravaning' industry and other aspects of 'vanlife'.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vanliferanting.com" # the base hostname & protocol for your site, e.g. http://example.com
 
