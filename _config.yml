@@ -30,6 +30,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
+jekyll-disqus:
+  shortname:
+  id_prefix: 
+  post_selector: 'include.post'
+  ui:
+    layouts:
+    - 'post'
+  counter:
+    layouts:
+    - 'all'
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
